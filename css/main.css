@@ -1,0 +1,54 @@
+.block {
+  width: 340px;
+}
+.bloc-basic {
+  height: 50px;
+  background-color: #333333;
+  border: 1px solid #333333;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px 144px 11px 144px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 20px;
+}
+.price {
+  height: 100px;
+  background-color: #333333;
+  border: 1px solid #333333;
+  color: #ffffff;
+  text-align: center;
+  padding: 26px 135px 33px 144px;
+  font-family: "Raleway";
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 35px;
+}
+.free {
+  text-align: center;
+  height: 50px;
+  background-color: #333333;
+  border: 1px solid #333333;
+  color: #ffffff;
+  padding: 14px 127px 17px 135px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #86878b;
+}
+.list-gb {
+  text-align: center;
+  height: 40px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+  color: #86878b;
+}
+.list-gb li {
+  padding: 10px 123px 11px 131px;
+  margin-bottom: 2px;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+}
